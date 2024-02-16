@@ -1,4 +1,39 @@
 {
-  "characters": [],
-  "users": []
+  "characters": [
+    {
+      "id": "1",
+      "userId": "1",
+      "infos": {
+        "avatar": "https://cdn2.iconfinder.com/data/icons/avatar-classes-role-playing-game-1/340/character_rpg_knight_warrior_medieval_swordsman_sword_weapon-512.png",
+        "name": "Bugs-Benny",
+        "type": "Humain",
+        "class": "Chevalier"
+      },
+      "stats": {
+        "level": "1",
+        "hp": "35",
+        "mp": "5",
+        "atk": 15,
+        "def": 12
+      },
+      "talents": {
+        "physical": "20",
+        "intellect": "12",
+        "dexterity": 14,
+        "charism": 8
+      },
+      "weapons": [
+        "Lance",
+        "Arbalète",
+        "Glaive"
+      ],
+      "description": "Bugs-Benny is a human knight. He is a good guy. But he is not a hero. His favorite food is potato chips. He hates his brother."
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "User Test"
+    }
+  ]
 }
